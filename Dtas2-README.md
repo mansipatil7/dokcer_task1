@@ -11,3 +11,9 @@ TASK1-Volume Reuse with Database Containers
 
 Blind Mount
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/21418932-1e66-4671-bd0f-8688b66176b6" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a3a5f272-ffd9-4998-9fdd-0bd6ed36a8b0" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1e9a77e3-b409-402c-b865-b67610dd079e" />
+
